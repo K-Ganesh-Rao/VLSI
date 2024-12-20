@@ -9,3 +9,8 @@ PMOS 1v
 NMOS 1v
 
 ![image](https://github.com/user-attachments/assets/c6094ae3-2be2-44c7-bfcd-75bf507ab0b9)
+
+
+![image](https://github.com/user-attachments/assets/85c32221-b070-4c85-ba1a-1e62cd3b518b)
+
+Symbol file creation
